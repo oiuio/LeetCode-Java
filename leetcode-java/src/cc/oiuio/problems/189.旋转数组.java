@@ -37,10 +37,15 @@ class Solution {
     }
 
     public static void main(String[] args) {
+
+        System.out.println("1");
+
+
         int[] testArray ={1,2};
         int k = 2;
 
         rotate(testArray,k);
+
 
         System.out.println(Arrays.toString(testArray));
 

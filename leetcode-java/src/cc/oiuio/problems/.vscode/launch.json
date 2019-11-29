@@ -2,9 +2,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Solution",
+            "name": "CodeLens (Launch) - Problem26",
             "request": "launch",
-            "mainClass": "Solution"
+            "mainClass": "Problem26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeTwoSortedLists",
+            "request": "launch",
+            "mainClass": "cc.oiuio.problems.MergeTwoSortedLists"
         }
     ]
 }

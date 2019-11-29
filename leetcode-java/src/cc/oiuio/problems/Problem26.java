@@ -1,4 +1,3 @@
-package cc.oiuio.problems;
 
 public class Problem26 {
 
